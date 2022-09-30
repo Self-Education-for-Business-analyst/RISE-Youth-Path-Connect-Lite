@@ -1,7 +1,7 @@
 .
 
 
-> # RISE Youth Path Connect Lite
+> # [RISE Youth Path Connect Lite](https://www.youtube.com/watch?v=cpfq6SMBpBM&list=PLVvPFH7DSPJPRldULv8Us9-IJiGUFkMCY)
 
 
 .
