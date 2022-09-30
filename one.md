@@ -17,11 +17,10 @@
 
 
 
-2 ) .  بخصوص متطلبات المشروع نجدها هنا  من خلال   Rubric Specifications
+2 ) .  بخصوص متطلبات المشروع نجدها هنا  من خلال  [Rubric Specifications](https://review.udacity.com/#!/rubrics/1063/view)s
 
 
-3 ) . بخصوص  مثال للمساعدة في حل المشروع ... يوداستي أعطت مثال في الدرس  رقم ((  8. Project Overview    ))
-
+3 ) . بخصوص  مثال للمساعدة في حل المشروع ... يوداستي أعطت مثال في الدرس  رقم (( [8. Project Overview](https://learn.udacity.com/nanodegrees/nd098-mcit/parts/cd1922/lessons/79266df5-9097-41a6-a5da-5b66c51f2965/concepts/d5008256-2c05-4b24-9d83-7152907a00bc) ))       
 
  هاد مثال لطريقة  العمل :
 
@@ -32,4 +31,10 @@
 
 
 ![exampl](https://user-images.githubusercontent.com/36210723/193309244-12ba7b21-4408-446e-9f31-02970f9a9176.png)
+
+
+
+
+
+
 
