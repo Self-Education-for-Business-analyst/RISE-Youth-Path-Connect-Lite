@@ -29,3 +29,7 @@
 
 
 وهذا هو المثال كما في الصورة أدناه
+
+
+![exampl](https://user-images.githubusercontent.com/36210723/193309244-12ba7b21-4408-446e-9f31-02970f9a9176.png)
+
