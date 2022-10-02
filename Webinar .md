@@ -1,3 +1,5 @@
+
+
 Dear learner :male-teacher: :female-teacher:
 
 
@@ -16,3 +18,33 @@ Webinar Topic:
 - Introduction to the ND projects (required to graduate)
 
 And here is the link , looking forward for meeting you all :hugging_face:
+
+
+
+=====================================================
+
+.
+
+Dear learner :male-teacher: :female-teacher:
+
+
+===============
+
+
+Our Second Webinar will be: Sunday, 23 October 2022 at 8:00 PM Riyadh Time
+
+
+Our Host:   @Nancy Al Aswad - Tutor of BAND
+
+
+Webinar Topic: Walkthrough on the project: Analyze NYSE Data
+
+
+And here is the Webinar Registration link  :hugging_face:
+
+
+Looking forward to meeting you all :male-student::female-student:
+
+.
+
+.
