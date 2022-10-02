@@ -56,5 +56,5 @@ Looking forward to meeting you all :male-student::female-student:
 | **Project Due** | **Host** | **Webinar Topic** | **Webinar Date and Time** | **Account to Join** | **Recording URL** |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 | The project: Analyze NYSE Data Due : Nov 3, 2022| ------------ | ------------ |------------ | ------------ | ------------ |
-| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
-| Dec 1, 2022 | ------------ | ------------ |------------ | ------------ | ------------ |
+|  The project: Query a Digital Music Store Database Due :   Dec 1, 2022 | ------------ | ------------ |------------ | ------------ | ------------ |
+|  The project: Data Visualization Project  Due :  Dec 15, 2022| ------------ | ------------ |------------ | ------------ | ------------ |
