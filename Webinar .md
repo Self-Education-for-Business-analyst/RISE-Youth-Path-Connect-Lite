@@ -1,6 +1,7 @@
 
 
-Dear learner :male-teacher: :female-teacher:
+Dear learner :male-student::female-student:
+
 
 
 Our first Webinar will be tomorrow Monday, 26 September 2022 at 8:00 PM Riyadh Time
