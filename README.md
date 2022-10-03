@@ -20,3 +20,10 @@
 .
 
 ## Project one : 
+
+
+
+## Submission Plagiarism
+
+
+- POTENTIAL SOURCE URL: https://github.com/AbdulazizR8/Analyze-NYSE-Data
