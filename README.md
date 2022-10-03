@@ -23,6 +23,10 @@
 - للتوضيح  بخصوص اسئلة الدروس 
 
 
+ فكرة  السؤال: [Spreadsheets 3: Analyze Data - Exercise: Pivot Tables](https://www.youtube.com/watch?v=0mvr7QYP2K8)
+
+
+
 
 
 ## Project one : 
