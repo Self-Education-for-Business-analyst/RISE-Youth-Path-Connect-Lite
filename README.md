@@ -43,18 +43,14 @@
 
 .
 
-السلام عليكم  جميعا  :blush:
 
-==================
-
-
-هاد البوست  لتوضيح الأسئلة الأكثر تكرارا  على slack     ، سواء  الرسائل الخاص أو على #05-business-analytics او #02-general 
+لتوضيح الأسئلة الأكثر تكرارا  على slack     ، سواء  الرسائل الخاص أو على #05-business-analytics او #02-general 
 
 .
 
 1 ) . كيف نقدر نشوف الجدول؟
 
-==================
+
 
  الاجابة :   من خلال الرابط  :
 https://sites.google.com/udacity.com/sda-youth-connect-lite-track/resources/weekly-schedule
@@ -64,7 +60,7 @@ https://sites.google.com/udacity.com/sda-youth-connect-lite-track/resources/week
 
 2 ) . هل حضور الكلاس المسجلة من متطلبات النجاح  أو فقط ممكن  النجاح بالمشاريع ؟
 
-======================================================
+
 
 
  الاجابة :   متطلب الحصول على شهادة البرنامج هي اجتياز المشاريع بنجاح ، أما الدروس المسجلة فهي لأخذ المعلومات والتدريبات التي تساعد على النجاح.
@@ -74,7 +70,7 @@ https://sites.google.com/udacity.com/sda-youth-connect-lite-track/resources/week
 
 3 ) .  هل هناك مشرف خاص لكل طالب بشكل فردي ؟؟؟؟
 
-====================================
+
 
 
  الاجابة :    في قناه #05-business-analytics هناك  Tutors  ثلاث أساتذة   لدعم جميع الطلاب على slack
@@ -86,7 +82,7 @@ https://sites.google.com/udacity.com/sda-youth-connect-lite-track/resources/week
 
  4 ) . ما هو  الفرق بين Career coaching sessions و webinar؟  وهل حضورهم إجباري لإتمام البرنامج ؟؟
 
-========================================================================
+
 
  الاجابة :    في قناه #05-business-analytics هناك  Tutors يقومون بدعم الطلاب في المشاريع من خلال  webinar
 
