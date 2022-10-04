@@ -62,7 +62,6 @@ https://sites.google.com/udacity.com/sda-youth-connect-lite-track/resources/week
 
 
 
-
  `الاجابة :`   متطلب الحصول على شهادة البرنامج هي اجتياز المشاريع بنجاح ، أما الدروس المسجلة فهي لأخذ المعلومات والتدريبات التي تساعد على النجاح.
 
 .
@@ -71,9 +70,8 @@ https://sites.google.com/udacity.com/sda-youth-connect-lite-track/resources/week
 3 ) .  هل هناك مشرف خاص لكل طالب بشكل فردي ؟؟؟؟
 
 
-
-
- الاجابة :    في قناه #05-business-analytics هناك  Tutors  ثلاث أساتذة   لدعم جميع الطلاب على slack
+ 
+ `الاجابة :`    في قناه #05-business-analytics هناك  Tutors  ثلاث أساتذة   لدعم جميع الطلاب على slack
 
 وهم  @Ramiz Assaf - BAND Tutor  && @Mahmoud Ayman - BAND Tutor && @Nancy Al Aswad - Tutor of BAND
 
@@ -83,16 +81,15 @@ https://sites.google.com/udacity.com/sda-youth-connect-lite-track/resources/week
  4 ) . ما هو  الفرق بين Career coaching sessions و webinar؟  وهل حضورهم إجباري لإتمام البرنامج ؟؟
 
 
-
- الاجابة :    في قناه #05-business-analytics هناك  Tutors يقومون بدعم الطلاب في المشاريع من خلال  webinar
+ 
+ `الاجابة :`    في قناه #05-business-analytics هناك  Tutors يقومون بدعم الطلاب في المشاريع من خلال  webinar
 
 أما  قناه #06-career-support-business-analytics   يقوم الأستاذ  بتوضيح مهارات  skills  وأفكار / معلومات  للتعريف  بمتطلبات السوق   knowledge  
 
   القناتين للإفادة الطلاب ولكن  webinar للنجاح في البرنامج  ,  أما  Career coaching sessions  لنصائح ما بعد البرنامج   وحتى  يستفيد الطالب من الطرفين نرجو السؤال في القناه   المخصصة لكل غاية 
 
 
-أرجو أن أكون وضحت اكثر الأسئلة تكرارا   وأرجو من الجميع مشاركة هذه الأفكار ي حال السؤال
 
-مع تمنياتنا  لكم جميعا بالنجاح  :hugging_face:
+أرجو أن أكون وضحت اكثر الأسئلة تكرارا   وأرجو من الجميع مشاركة هذه الأفكار ي حال السؤال
 
 .
