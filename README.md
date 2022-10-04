@@ -52,7 +52,7 @@
 
 
 
- الاجابة :   من خلال الرابط  :
+ `الاجابة :`  من خلال الرابط  :
 https://sites.google.com/udacity.com/sda-youth-connect-lite-track/resources/weekly-schedule
 
 .
