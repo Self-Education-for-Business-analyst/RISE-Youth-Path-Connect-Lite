@@ -11,12 +11,9 @@ https://review.udacity.com/#!/submissions/3740228
 
 .
 
-![1663933045882](https://user-images.githubusercontent.com/36210723/194461493-581ce511-0da1-4c4f-b9e5-a731530a454a.gif)
+> ------ ![1663933045882](https://user-images.githubusercontent.com/36210723/194461493-581ce511-0da1-4c4f-b9e5-a731530a454a.gif)
 
 
-.
-
-![BA steps 000](https://user-images.githubusercontent.com/36210723/194461836-2b597994-a5f6-4f36-9e3b-a2fc31d4998a.gif)
 
 .
 
