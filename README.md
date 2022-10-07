@@ -14,6 +14,15 @@ https://review.udacity.com/#!/submissions/3740228
 ![1663933045882](https://user-images.githubusercontent.com/36210723/194461493-581ce511-0da1-4c4f-b9e5-a731530a454a.gif)
 
 
+.
+
+![1663933045882 (1)](https://user-images.githubusercontent.com/36210723/194461601-5b1effae-71dd-4ccb-ac4e-ea3b40155308.gif)
+
+
+.
+
+
+
 
 - للتوضيح  بخصوص شاشات ((  الإرسال + feedback  ))  ، سواء النجاح بالمشروع أو وجود متطلب  للنجاح ( لم يتم النجاح ويجب  إعاداه إرسال المشروع)
 
