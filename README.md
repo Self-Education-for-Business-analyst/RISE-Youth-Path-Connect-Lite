@@ -16,8 +16,7 @@ https://review.udacity.com/#!/submissions/3740228
 
 .
 
-![BA steps ](https://user-images.githubusercontent.com/36210723/194461770-bc2f0269-29af-4a52-868f-875b65394cf5.gif)
-
+![BA steps 000](https://user-images.githubusercontent.com/36210723/194461836-2b597994-a5f6-4f36-9e3b-a2fc31d4998a.gif)
 
 .
 
