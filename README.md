@@ -108,3 +108,10 @@ https://sites.google.com/udacity.com/sda-youth-connect-lite-track/resources/week
 - POTENTIAL SOURCE URL: https://github.com/AbdulazizR8/Analyze-NYSE-Data
 
 
+
+
+. 
+
+طيب اعطونا نبده للمشروع ايش يبغونا نسوي فيه
+
+. 
