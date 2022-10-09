@@ -1,16 +1,5 @@
 .
 
-
-## [Requirements](https://review.udacity.com/#!/reviews/3733543)
-
-## [Usful note  --- Descriptive Statistics link (( Descriptive Statistics Feature as explaine)) and percentage ](https://review.udacity.com/#!/submissions/3745110)
-
-
-.
-
-
-
-
  > ## بخصوص المشروع الثاني  Project: Analyze NYSE Data
 
 
@@ -49,4 +38,13 @@
 
 
 2 ) . ولمن يرغب في تحميل ملف المشروع ويجد صعوبة ... هاد الفيديو بالعربي ويساعدكم في تحميل البيانات دون مواجهه  مشكلة في data type
+
+
+
+.
+
+
+## [Requirements](https://review.udacity.com/#!/reviews/3733543)
+
+## [Usful note  --- Descriptive Statistics link (( Descriptive Statistics Feature as explaine)) and percentage ](https://review.udacity.com/#!/submissions/3745110)
 
