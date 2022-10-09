@@ -11,12 +11,6 @@ https://review.udacity.com/#!/submissions/3740228
 
 .
 
-
-> ------     ![BA steps ](https://user-images.githubusercontent.com/36210723/194461908-db0a5853-1649-49b3-b11d-92cc3bfd43e8.gif) ---------------
-
-
-
-
 - للتوضيح  بخصوص شاشات ((  الإرسال + feedback  ))  ، سواء النجاح بالمشروع أو وجود متطلب  للنجاح ( لم يتم النجاح ويجب  إعاداه إرسال المشروع)
 
 هاد الفيديو القصير (حوالي 3 دقائق )  يوضح كل ما سبق > **[Submit Feedback Pass or Need to resubmit](https://www.youtube.com/watch?v=cpfq6SMBpBM&list=PLVvPFH7DSPJPRldULv8Us9-IJiGUFkMCY)**
