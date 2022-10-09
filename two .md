@@ -40,3 +40,10 @@
  `Task 3` - Financial Forecasts
 
 .
+
+![2222](https://user-images.githubusercontent.com/36210723/194735657-81b1ed4d-97a3-4142-a6a9-5788a60386ac.png)
+
+
+
+
+.
