@@ -3,6 +3,7 @@
 
 ## [Requirements](https://review.udacity.com/#!/reviews/3733543)
 
+## [Usful note  --- Descriptive Statistics link (( Descriptive Statistics Feature as explaine)) and percentage ](https://review.udacity.com/#!/submissions/3745110)
 
 
 .
