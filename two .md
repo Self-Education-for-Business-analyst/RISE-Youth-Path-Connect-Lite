@@ -22,3 +22,21 @@
 
 
 2 ) . ولمن يرغب في تحميل ملف المشروع ويجد صعوبة ... هاد الفيديو بالعربي ويساعدكم في تحميل البيانات دون مواجهه  مشكلة في data type
+
+
+
+.
+
+> ## Our second project should contain
+
+==============================
+
+**You have to submit  ( Excel  and  PDF  ) files containing:**
+
+ `Task 1` - Slide title, analysis description, and visualization(s)
+                - Summary statistics calculations
+
+ `Task 2` - Profit and Loss Statement
+ `Task 3` - Financial Forecasts
+
+.
