@@ -51,6 +51,9 @@
 2 )  . تحميل ملف المشروع دون مواجهه  مشكلة في data type للبيانات
 
 
+3 ) .لتوضح فكرة الكويز  [Lesson 5, Excercise 15 - VLOOKUP](https://www.youtube.com/watch?v=d8ZU5e0Bxik)
+
+
 
 .
 
