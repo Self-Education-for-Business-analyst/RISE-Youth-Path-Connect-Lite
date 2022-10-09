@@ -26,14 +26,12 @@ https://review.udacity.com/#!/submissions/3740228
 - للتوضيح  بخصوص اسئلة الدروس 
 
 
-   -  فكرة  السؤال: [Spreadsheets 3: Analyze Data - Exercise: Pivot Tables](https://www.youtube.com/watch?v=0mvr7QYP2K8)
+* فكرة  السؤال: [Spreadsheets 3: Analyze Data - Exercise: Pivot Tables](https://www.youtube.com/watch?v=0mvr7QYP2K8)
    
 
 
 
- فكرة  السؤال: 
-
-[Spreadsheets 3: Analyze Data Exercise: VLOOKUP](https://learn.udacity.com/nanodegrees/nd098-mcit/parts/cd0022/lessons/ls0224/concepts/f6d8f067-2963-4ce0-9726-47f1fd4876ba)
+ * فكرة  السؤال:  [Spreadsheets 3: Analyze Data Exercise: VLOOKUP](https://learn.udacity.com/nanodegrees/nd098-mcit/parts/cd0022/lessons/ls0224/concepts/f6d8f067-2963-4ce0-9726-47f1fd4876ba)
 
 
 
