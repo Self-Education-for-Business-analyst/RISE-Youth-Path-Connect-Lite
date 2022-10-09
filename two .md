@@ -13,9 +13,11 @@
 
 **You have to submit  ( Excel  and  PDF  ) files containing:**
 
-- `Task 1` - Slide title, analysis description, and visualization(s)
-           - Slide
-                - Summary statistics calculations
+- `Task 1`  : 
+
+     - Slide title, analysis description, and visualization(s)
+     
+     -  Summary statistics calculations
 
 - `Task 2` - Profit and Loss Statement
 
