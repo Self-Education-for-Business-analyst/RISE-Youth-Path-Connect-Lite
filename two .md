@@ -54,6 +54,13 @@
 
 .
 
+> ## - `Task 2` - Profit and Loss Statement
+
+![P   L representation](https://user-images.githubusercontent.com/36210723/194736299-042a4089-c4c5-41d3-8635-0cafd9e37c86.gif)
+
+
+
+.
 
 ## [Requirements](https://review.udacity.com/#!/reviews/3733543)
 
