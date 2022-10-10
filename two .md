@@ -65,9 +65,9 @@
 
 .
 
-لتوضح فكرة الكويز
+**لتوضح فكرة يرجى مشاهدة فيديو  [Project Submission](https://www.youtube.com/watch?v=hFxmWxCtHiA&list=PLVvPFH7DSPJPRldULv8Us9-IJiGUFkMCY&index=7)**
 
-[Project Submission]()
+
 
 .
 
