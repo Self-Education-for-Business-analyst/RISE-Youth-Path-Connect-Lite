@@ -41,8 +41,6 @@
      -  Summary statistics calculations
 
 
-- `Task 1` Issues  : 
-
 
 .
 
@@ -52,11 +50,16 @@
 .
 
 
+ > - `Task 1` Issues  : 
+
+
+
  تم تحضير بعض الفيديوهات القصيرة  باللغة العربية  للمساعدة في توضح وتبسيط بعض الافكار والمشاكل التي تواجه الزملاء : 
 
- 1 )  . أفكار الدرس الأول والثاني (https://www.youtube.com/watch?v=M2dyUSixXDM&list=PLVvPFH7DSPJPRldULv8Us9-IJiGUFkMCY&index=2)[ ((   2   +  Descriptive Statistics - Part  (( I   ]
-
-
+ 1 )  . أفكار الدرس الأول والثاني  [  Descriptive Statistics - Part one and two بالعربي  ](https://www.youtube.com/watch?v=M2dyUSixXDM&list=PLVvPFH7DSPJPRldULv8Us9-IJiGUFkMCY&index=2)
+ 
+ 
+ 
 2 )  . تحميل ملف المشروع دون مواجهه  مشكلة في data type للبيانات [  فيديو بالعربي ](https://www.youtube.com/watch?v=ufcy53zHt40&list=PLVvPFH7DSPJNib3tUsP8FzaHPzN-6cmAx&index=14)
 
 
