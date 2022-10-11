@@ -43,19 +43,24 @@
 
 - `Task 1` Issues  : 
 
+
+.
+
+![FinalSlidExample1111](https://user-images.githubusercontent.com/36210723/194988181-349ce364-ac40-495f-8e5a-1395f9644e5e.png)
+
+
+.
+
+
  تم تحضير بعض الفيديوهات القصيرة  باللغة العربية  للمساعدة في توضح وتبسيط بعض الافكار والمشاكل التي تواجه الزملاء : 
 
  1 )  . أفكار الدرس الأول والثاني  ((   2   +  Descriptive Statistics - Part  (( I  
 
 
-2 )  . تحميل ملف المشروع دون مواجهه  مشكلة في data type للبيانات
+2 )  . تحميل ملف المشروع دون مواجهه  مشكلة في data type للبيانات [  فيديو بالعربي ](https://www.youtube.com/watch?v=ufcy53zHt40&list=PLVvPFH7DSPJNib3tUsP8FzaHPzN-6cmAx&index=14)
 
 
 3 ) .لتوضح فكرة الكويز  [Lesson 5, Excercise 15 - VLOOKUP](https://www.youtube.com/watch?v=d8ZU5e0Bxik)
-
-
-
-.
 
 > ## - `Task 2` - Profit and Loss Statement
 
