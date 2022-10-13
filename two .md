@@ -1,5 +1,9 @@
 .
 
+https://youtube.com/shorts/c6rWkQrSI68?feature=share
+
+. 
+
  > ## بخصوص المشروع الثاني  Project: Analyze NYSE Data
 
 
