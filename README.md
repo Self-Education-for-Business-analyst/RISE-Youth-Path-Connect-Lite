@@ -95,6 +95,12 @@ https://sites.google.com/udacity.com/sda-youth-connect-lite-track/resources/week
 
 
 
+> ## Project one : 
+
+> ## Project Two  : 
+
+> ## Project Three : [](https://github.com/Self-Education-for-Business-analyst/RISE-Youth-Path-Connect-Lite-profile-README.md/blob/main/Project%20Three%20.md)
+
 > ## Submission Plagiarism
 
 =============================
