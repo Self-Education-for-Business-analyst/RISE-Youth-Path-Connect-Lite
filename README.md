@@ -95,7 +95,7 @@ https://sites.google.com/udacity.com/sda-youth-connect-lite-track/resources/week
 
 
 
-> ## Project one : 
+> ## Project one : [idea](https://github.com/Self-Education-for-Business-analyst/RISE-Youth-Path-Connect-Lite-profile-README.md/blob/main/one.md)
 
 > ## Project Two  : [Project: Analyze NYSE Data](https://github.com/Self-Education-for-Business-analyst/RISE-Youth-Path-Connect-Lite-profile-README.md/blob/main/two%20.md)
 
