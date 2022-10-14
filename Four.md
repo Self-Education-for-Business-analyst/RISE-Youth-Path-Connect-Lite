@@ -1,16 +1,5 @@
 .
 
-## Dear Jack  :smile:
-
-
-=====================
-
-
-
-** Thanks for the good work you have done on this project, I appreciate the time and effort you put into doing it.**
-
-
-
 
 ### However, the project needs `a few changes `  to let us able to review it. 
 
@@ -21,10 +10,6 @@
 
 > The project has **only** ` one link` as a story, So we need to :
 
-
-.
-
-![2022-10-14_123950.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1665740543/2022-10-14_123950.png)
 
 .
 
@@ -141,10 +126,7 @@ You can use W3 and W4 to create a dashboard. W3 and W4 are not to be submitted a
 
 .
 
-![colo.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1665740964/colo.png)
 
-
-.
 
 
 
