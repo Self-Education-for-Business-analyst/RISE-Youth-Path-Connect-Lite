@@ -73,7 +73,7 @@ https://youtube.com/shorts/c6rWkQrSI68?feature=share
 
  > #### بخصوص المشروع الثاني  Project:  Lesson 5, Excercise 
  > 
-  **ب=============================================**
+  **ب================================**
 
 
 3 ) .لتوضح فكرة [حل السؤال  ](https://learn.udacity.com/nanodegrees/nd098-mcit/parts/cd0022/lessons/ls0224/concepts/25d04070-e0d4-49b0-b80d-c40718734b00)  الكويز الخاص  [Lesson 5, Excercise 11 - Spreadsheets 3 Analyze Data Exercise Pivot Tables](https://www.youtube.com/watch?v=0mvr7QYP2K8&list=PLVvPFH7DSPJPRldULv8Us9-IJiGUFkMCY&index=5)
