@@ -70,18 +70,10 @@ https://youtube.com/shorts/c6rWkQrSI68?feature=share
 3 ) .لتوضح فكرة الكويز  [Lesson 5, Excercise 15 - VLOOKUP](https://www.youtube.com/watch?v=d8ZU5e0Bxik)
 
 
-4 ) .لتوضح فكرة الكويز
-[Project: Analyze NYSE Data QUIZ 1:Exploring the data Question 2of 4 ]()
+4 ) .لتوضح فكرة[عمل ](https://learn.udacity.com/nanodegrees/nd098-mcit/parts/cd0022/lessons/69de80a9-c8ac-4fd1-8724-93d4789cde45/concepts/5e889fb9-623b-4271-8a70-abdeb0e05b0f) الكويز  [Project: Analyze NYSE Data QUIZ 1:Exploring the data Question 2of 4 ](https://www.youtube.com/watch?v=dsx5xy0PfgI)
 
 
 
-
--- https://knowledge.udacity.com/questions/419179
-
-
--- https://knowledge.udacity.com/questions/432049
-
--- https://knowledge.udacity.com/questions/550443
 
 
 .
