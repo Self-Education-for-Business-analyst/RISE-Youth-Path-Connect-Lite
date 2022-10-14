@@ -79,11 +79,7 @@ https://youtube.com/shorts/c6rWkQrSI68?feature=share
 
 
 
-
-5 ) .لتوضح فكرة  [حل السؤال  ](https://learn.udacity.com/nanodegrees/nd098-mcit/parts/cd0022/lessons/69de80a9-c8ac-4fd1-8724-93d4789cde45/concepts/79393f0d-17c4-485d-921c-8fd640986814)
-
-
-الكويز الخاص  [Project: Analyze NYSE Data QUIZ 1:Exploring the data Question 2of 4 ](https://www.youtube.com/watch?v=dsx5xy0PfgI)
+6 ) .لتوضح فكرة  [حل السؤال  ](https://learn.udacity.com/nanodegrees/nd098-mcit/parts/cd0022/lessons/69de80a9-c8ac-4fd1-8724-93d4789cde45/concepts/79393f0d-17c4-485d-921c-8fd640986814)  الكويز الخاص   [Project: Analyze NYSE Data QUIZ 1:Exploring the data Question  ]()
 
 
 
