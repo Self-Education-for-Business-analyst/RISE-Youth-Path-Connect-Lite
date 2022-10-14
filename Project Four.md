@@ -71,6 +71,8 @@ You can use W3 and W4 to create a dashboard. W3 and W4 are not to be submitted a
 
 .
 
+![Screenshot_2022-09-29_at_07 37 18](https://user-images.githubusercontent.com/36210723/195831274-7c60a70e-c662-4e01-a084-b6416a6cb99a.png)
+
 
 
 .
@@ -150,7 +152,6 @@ You can use W3 and W4 to create a dashboard. W3 and W4 are not to be submitted a
 
 .
 
-.
 
 
 
