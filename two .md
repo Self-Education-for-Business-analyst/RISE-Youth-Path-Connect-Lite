@@ -69,6 +69,15 @@ https://youtube.com/shorts/c6rWkQrSI68?feature=share
 
 3 ) .لتوضح فكرة الكويز  [Lesson 5, Excercise 15 - VLOOKUP](https://www.youtube.com/watch?v=d8ZU5e0Bxik)
 
+
+4 ) .لتوضح فكرة الكويز
+[Project: Analyze NYSE Data QUIZ 1:Exploring the data Question 2of 4 ]()
+
+
+
+.
+
+
 > ## - `Task 2` - Profit and Loss Statement
 
 ![P   L representation](https://user-images.githubusercontent.com/36210723/194736299-042a4089-c4c5-41d3-8635-0cafd9e37c86.gif)
