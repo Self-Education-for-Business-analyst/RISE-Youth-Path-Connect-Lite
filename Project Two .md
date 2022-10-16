@@ -175,3 +175,15 @@ Gross Profit for Year 6 = (Total Revenue of Year 6 X Assumption of Gross Margin 
 
 
 About the issue below here is a supporting short video to clear the answer steps for you.
+
+
+
+
+.
+
+## Suggestions
+
+- To help with the creating the drop down please [click Here For the Financial Dashboard Lessons.](https://classroom.udacity.com/nanodegrees/nd098/parts/5966ce46-17c7-4491-9856-6fa905d02a83/modules/28f776f2-89c3-417c-8569-41b59a2df372/lessons/155aa1ab-cee4-40fc-9886-181e36a9d71b/concepts/c9ee13b9-e45e-4a74-9468-8ad1abfd4d29)
+- For further study, you could see [this link for Excel formulas](https://corporatefinanceinstitute.com/resources/excel/study/advanced-excel-formulas-must-know/), some formulas will be familiar while others will be new.
+- For more cell formatting information [please see this link](https://www.excel-easy.com/basics/format-cells.html)
+
