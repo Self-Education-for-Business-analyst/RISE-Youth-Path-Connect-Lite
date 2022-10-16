@@ -115,3 +115,27 @@ https://youtube.com/shorts/c6rWkQrSI68?feature=share
 
 ## [Usful note  --- Descriptive Statistics link (( Descriptive Statistics Feature as explaine)) and percentage ](https://review.udacity.com/#!/submissions/3745110)
 
+
+
+
+
+
+
+ > ## بخصوص اسئلة الدروس الخاصة المشروع الثاني  Project: Analyze NYSE Data
+
+
+  **ب====================================================**
+
+.
+
+
+
+
+
+
+ > ## بخصوص مشاكل التي تواجه الطلبة عند تنفيذ المشروع الثاني  Project: Analyze NYSE Data
+
+
+  **ب====================================================**
+
+.
