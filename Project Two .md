@@ -138,10 +138,23 @@ https://youtube.com/shorts/c6rWkQrSI68?feature=share
 
   **ب====================================================**
 
+
+
+ في حال ظهور المشكلة كما في الصورة ادناه وعدم القدرة على عمل المعادلات ارجو مشاهدة الفيديو القصير لحل هذه المشكلة . 
 .
 
 
-![2](https://user-images.githubusercontent.com/36210723/196017686-3891b229-98af-42e0-9274-4227475336ab.png)
+1) . مشكلة التحميل التي تظهر بالشكل ادناه ولا تعطي نتيجة عند عمل المعادلة [Solve issue  ](https://www.youtube.com/watch?v=IaYMZv23Br0&list=PLVvPFH7DSPJNib3tUsP8FzaHPzN-6cmAx&index=22)
+
+
 
 ![1](https://user-images.githubusercontent.com/36210723/196017687-dc493985-eb84-443a-9e20-25ec323c40d4.png)
+
+.
+
+![2](https://user-images.githubusercontent.com/36210723/196017686-3891b229-98af-42e0-9274-4227475336ab.png)
+
+
+.
+
 
