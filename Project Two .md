@@ -158,3 +158,20 @@ https://youtube.com/shorts/c6rWkQrSI68?feature=share
 .
 
 
+.
+
+
+Here is another  explanation for repeated question
+
+=====================================
+.
+ In the forecast model : the Metrics:  for Gross Profit for Years 5 and 6:
+
+Follow these equations to calculate the metrics:
+
+
+Gross Profit for Year 5 = (Total Revenue of Year 5 X Assumption of Gross Margin for YEAR 5)
+Gross Profit for Year 6 = (Total Revenue of Year 6 X Assumption of Gross Margin for YEAR 6)
+
+
+About the issue below here is a supporting short video to clear the answer steps for you.
