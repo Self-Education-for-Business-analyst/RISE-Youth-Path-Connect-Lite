@@ -2,7 +2,7 @@
 
 > > - ### [Aggregating Across States and Categories](https://review.udacity.com/#!/reviews/3759399)
 
-
+- [time chart](https://review.udacity.com/#!/reviews/3766888)
 .
 
 
