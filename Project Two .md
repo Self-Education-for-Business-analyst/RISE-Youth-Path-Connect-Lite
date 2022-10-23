@@ -104,14 +104,30 @@ https://youtube.com/shorts/c6rWkQrSI68?feature=share
 
 
 
-.
-
-**لتوضح فكرة يرجى مشاهدة فيديو  [Project Submission](https://www.youtube.com/watch?v=hFxmWxCtHiA&list=PLVvPFH7DSPJPRldULv8Us9-IJiGUFkMCY&index=7)**
-
 
 .
 
-### Here are my explanation videos in Arabic &&& English for this task
+### Here are my explanation videos in [Arabic](https://www.youtube.com/watch?v=tRGn9zxZ8bQ&list=PLVvPFH7DSPJNib3tUsP8FzaHPzN-6cmAx&index=18) &&& [English]() for this task
+
+
+
+.
+
+
+.
+> ## -  `Task 3` - Financial Forecasts
+
+.
+
+
+### Here are my explanation videos in [Arabic](https://www.youtube.com/watch?v=njrBrHFNxf8&list=PLVvPFH7DSPJNib3tUsP8FzaHPzN-6cmAx&index=19) &&& [English]() for this task
+
+
+
+
+
+
+
 
 .
 
@@ -119,6 +135,20 @@ https://youtube.com/shorts/c6rWkQrSI68?feature=share
 
 ## [Usful note  --- Descriptive Statistics link (( Descriptive Statistics Feature as explaine)) and percentage ](https://review.udacity.com/#!/submissions/3745110)
 
+
+
+
+
+
+
+
+
+.
+
+**لتوضح فكرة يرجى مشاهدة فيديو  [Project Submission](https://www.youtube.com/watch?v=hFxmWxCtHiA&list=PLVvPFH7DSPJPRldULv8Us9-IJiGUFkMCY&index=7)**
+
+
+.
 
 
 
