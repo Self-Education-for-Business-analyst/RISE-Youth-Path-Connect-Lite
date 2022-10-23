@@ -1,7 +1,7 @@
 
 . 
 
- > ## بخصوص المشروع الثاني  Project: Analyze NYSE Data
+ > ## بخصوص المشروع الثاني   Project: [Analyze NYSE Data](https://www.youtube.com/watch?v=hFxmWxCtHiA&list=PLVvPFH7DSPJPRldULv8Us9-IJiGUFkMCY&index=7)
 
 
   **ب====================================================**
