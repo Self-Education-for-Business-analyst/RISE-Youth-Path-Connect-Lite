@@ -109,6 +109,9 @@ https://youtube.com/shorts/c6rWkQrSI68?feature=share
 **لتوضح فكرة يرجى مشاهدة فيديو  [Project Submission](https://www.youtube.com/watch?v=hFxmWxCtHiA&list=PLVvPFH7DSPJPRldULv8Us9-IJiGUFkMCY&index=7)**
 
 
+.
+
+### Here are my explanation videos in Arabic &&& English for this task
 
 .
 
