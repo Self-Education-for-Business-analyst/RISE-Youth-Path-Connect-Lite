@@ -44,7 +44,7 @@ https://youtube.com/shorts/c6rWkQrSI68?feature=share
      
      -  Summary statistics calculations
 
-### here is the explaaintion veido in [Arabic ]() &&& [English]()
+### Here are my explanation videos in [Arabic](https://www.youtube.com/watch?v=TyK8Eo0meyI) &&&  [English]() for this task
 
 
 .
