@@ -103,4 +103,4 @@ https://sites.google.com/udacity.com/sda-youth-connect-lite-track/resources/week
 
 .
 
-(https://review.udacity.com/#!/submissions/3740228)
+[00](https://review.udacity.com/#!/submissions/3740228)
