@@ -77,7 +77,7 @@ https://sites.google.com/udacity.com/sda-youth-connect-lite-track/resources/week
 =============
 
 
-- one : [idea](https://github.com/Self-Education-for-Business-analyst/RISE-Youth-Path-Connect-Lite-profile-README.md/blob/main/one.md)
+- one : [idea](https://github.com/Self-Education-for-Business-analyst/RISE-Youth-Path-Connect-Lite-profile-README.md/blob/main/Project%20%20One.md)
 
 
 - Two  : [Project: Analyze NYSE Data](https://github.com/Self-Education-for-Business-analyst/RISE-Youth-Path-Connect-Lite-profile-README.md/blob/main/Project%20Two%20.md)
