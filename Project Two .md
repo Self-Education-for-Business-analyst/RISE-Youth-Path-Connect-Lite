@@ -9,7 +9,7 @@
 
 
 
-- [Key Performance Indicators](https://learn.udacity.com/nanodegrees/nd098-adsg-fs/parts/1718e29b-e49c-4b67-bf33-f892e17e9fa1/lessons/ls0507/concepts/8a698ed4-3c4c-48c2-a866-62c2c5394bf5)
+- [Key Performance Indicators](https://learn.udacity.com/nanodegrees/nd098-adsg-fs/parts/1718e29b-e49c-4b67-bf33-f892e17e9fa1/lessons/ls0507/concepts/8a698ed4-3c4c-48c2-a866-62c2c5394bf5) lesson and the [link ](https://www.spiderstrategies.com/kpi/department/finance/)
 .
 
 > ## Our second project should contain
