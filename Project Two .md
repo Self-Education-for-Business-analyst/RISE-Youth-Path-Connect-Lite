@@ -15,6 +15,9 @@
 ==========================================
 
 
+- Introduction about Community And tutors in [Slack](https://app.slack.com/client/T040ZKYQ599/C042T2V6J1F)
+
+
 - [Descriptive Statistics - Part I + 2 ](https://learn.udacity.com/nanodegrees/nd098-adsg-fs/parts/3d4492dc-32fb-4dd0-a955-c3e1acf8894d/lessons/ls0220/concepts/f91a1a00-eb3c-4341-a4a9-24d86ddd8754)
 
 
