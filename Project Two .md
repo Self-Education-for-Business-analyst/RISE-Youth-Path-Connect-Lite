@@ -2,8 +2,7 @@
 . 
 
  > ## بخصوص المشروع الثاني
- > 
- >   [Udacity]([https://learn.udacity.com/nanodegrees/nd098-adsg-fs/parts/ca03da60-dd61-4f77-ab74-551a9ab81863](https://learn.udacity.com/nanodegrees/nd098-mcit/parts/cd0022))   Project: [Analyze NYSE Data](https://www.youtube.com/watch?v=hFxmWxCtHiA&list=PLVvPFH7DSPJPRldULv8Us9-IJiGUFkMCY&index=7)
+ >   [Udacity](https://learn.udacity.com/nanodegrees/nd098-mcit/parts/cd0022))   Project: [Analyze NYSE Data](https://www.youtube.com/watch?v=hFxmWxCtHiA&list=PLVvPFH7DSPJPRldULv8Us9-IJiGUFkMCY&index=7)
 
 
   **ب====================================================**
