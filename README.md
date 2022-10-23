@@ -113,6 +113,3 @@ https://sites.google.com/udacity.com/sda-youth-connect-lite-track/resources/week
 
 . 
 
-طيب اعطونا نبده للمشروع ايش يبغونا نسوي فيه
-
-. 
