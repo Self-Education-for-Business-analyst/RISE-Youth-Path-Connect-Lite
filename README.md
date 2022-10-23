@@ -1,6 +1,3 @@
-.
-
-https://review.udacity.com/#!/submissions/3740228
 
 . 
 
@@ -104,3 +101,6 @@ https://sites.google.com/udacity.com/sda-youth-connect-lite-track/resources/week
 
 . 
 
+.
+
+(https://review.udacity.com/#!/submissions/3740228)
