@@ -1,6 +1,3 @@
-.
-
-https://youtube.com/shorts/c6rWkQrSI68?feature=share
 
 . 
 
@@ -230,3 +227,9 @@ About the issue below here is a supporting short video to clear the answer steps
 - For further study, you could see [this link for Excel formulas](https://corporatefinanceinstitute.com/resources/excel/study/advanced-excel-formulas-must-know/), some formulas will be familiar while others will be new.
 - For more cell formatting information [please see this link](https://www.excel-easy.com/basics/format-cells.html)
 
+
+
+.
+
+
+## [00](https://youtube.com/shorts/c6rWkQrSI68?feature=share)
