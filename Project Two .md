@@ -7,9 +7,16 @@
   **ب====================================================**
 
 
+- [Descriptive Statistics - Part I + 2 ](https://learn.udacity.com/nanodegrees/nd098-adsg-fs/parts/3d4492dc-32fb-4dd0-a955-c3e1acf8894d/lessons/ls0220/concepts/f91a1a00-eb3c-4341-a4a9-24d86ddd8754)
 
 
-- [Key Performance Indicators](https://learn.udacity.com/nanodegrees/nd098-adsg-fs/parts/1718e29b-e49c-4b67-bf33-f892e17e9fa1/lessons/ls0507/concepts/8a698ed4-3c4c-48c2-a866-62c2c5394bf5) lesson and the [link ](https://www.spiderstrategies.com/kpi/department/finance/)
+
+- BUSINESS METRICS : [Key Performance Indicators](https://learn.udacity.com/nanodegrees/nd098-adsg-fs/parts/1718e29b-e49c-4b67-bf33-f892e17e9fa1/lessons/ls0507/concepts/8a698ed4-3c4c-48c2-a866-62c2c5394bf5) lesson and the [link ](https://www.spiderstrategies.com/kpi/department/finance/)
+
+
+- [Spreadsheets ](https://learn.udacity.com/nanodegrees/nd098-adsg-fs/parts/ca03da60-dd61-4f77-ab74-551a9ab81863/lessons/ls0222/concepts/a943147c-8a1e-42e8-83c0-ebd81c52236d)
+
+
 .
 
 > ## Our second project should contain
