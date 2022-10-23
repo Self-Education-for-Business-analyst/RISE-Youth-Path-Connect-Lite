@@ -44,6 +44,7 @@ https://youtube.com/shorts/c6rWkQrSI68?feature=share
      
      -  Summary statistics calculations
 
+### here is the explaaintion veido in [Arabic ]() &&& [English]()
 
 
 .
