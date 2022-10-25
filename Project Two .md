@@ -218,6 +218,23 @@
 
 
 .
+2) . من اين يمكن ان اجد النموذج  
+
+![النموذج](https://user-images.githubusercontent.com/36210723/197855671-4d686c8e-7e1e-4901-a483-0b376cc5ac80.png)
+
+
+.
+من هاد الدرس نأخذ النموذج P&L   = https://learn.udacity.com/nanodegrees/nd098-mcit/parts/cd0022/lessons/ls0508/concepts/8e59229f-2b40-4c0b-bef1-48acae291659
+
+
+
+
+![Form](https://user-images.githubusercontent.com/36210723/197855747-ee7262ce-504e-4d15-86ee-0ae4519147f8.png)
+
+
+
+
+.
 
 
 .
