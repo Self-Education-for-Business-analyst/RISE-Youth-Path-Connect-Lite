@@ -163,3 +163,12 @@ You can use W3 and W4 to create a dashboard. W3 and W4 are not to be submitted a
 ** Wish you all the best in your resubmission 😊**
 
 .
+
+
+
+
+- [Quiz small multiple in lesson 3 creating visualization in Tabealu]() the problem [page](http://onlinehelp.tableau.com/current/pro/desktop/en-us/maps_editlocation.html)  the answer in [knowledge](https://knowledge.udacity.com/questions/916801) &&& [Github](https://github.com/nancyalaswad90/Links-for-knowledge.Area/blob/main/Map%20configuration.md)
+
+
+![lesson 3 creating visualization in Tabealu](https://user-images.githubusercontent.com/36210723/198521463-5f7dd566-412f-4dbd-a861-a0d3b6146d23.png)
+
