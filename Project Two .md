@@ -3,9 +3,6 @@
 
  > ## بخصوص المشروع الثاني  [Udacity](https://learn.udacity.com/nanodegrees/nd098-mcit/parts/cd0022)  Project: [Analyze NYSE Data](https://www.youtube.com/watch?v=hFxmWxCtHiA&list=PLVvPFH7DSPJPRldULv8Us9-IJiGUFkMCY&index=7)
 
-### And about [Webinar Topic: Walkthrough on the project: Analyze NYSE Data](https://udacity.zoom.us/rec/share/5QCBLHzCckqnIMhhf2BU3R7g7p2zuI88NuwfTB-KVzf1VxpNUxGBhgtRzL5bgT0v.alFwJsq3KqbyYeNv)
-
-
   **ب====================================================**
 
 .
@@ -14,7 +11,8 @@
 
 
 
-### General ideas and explanation for this course
+### General ideas and explanation for this course And about [Webinar Topic: Walkthrough on the project: Analyze NYSE Data](https://udacity.zoom.us/rec/share/5QCBLHzCckqnIMhhf2BU3R7g7p2zuI88NuwfTB-KVzf1VxpNUxGBhgtRzL5bgT0v.alFwJsq3KqbyYeNv)
+
 
 
 ==========================================
