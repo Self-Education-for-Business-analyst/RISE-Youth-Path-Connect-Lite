@@ -30,7 +30,7 @@ Dear learner :male-teacher: :female-teacher:
 ===============
 
 
-**Our Second Webinar** will be:  Saturday, `19 November`2022 at 8:00 PM Riyadh Time
+**Our Third Webinar** will be:  Saturday, `19 November`2022 at 8:00 PM Riyadh Time
 
 
 Our Host:   @Nancy Al Aswad - Tutor of BAND
@@ -39,7 +39,7 @@ Our Host:   @Nancy Al Aswad - Tutor of BAND
 Analyze NYSE Data Due : `Dec 1, 2022`
 
 
-Webinar Topic: Walkthrough on the project: `uery a Digital Music Store Database`
+Webinar Topic: Walkthrough on the project: `Query a Digital Music Store Database`
 
 
 And here is the Webinar Registration link  (( https://udacity.zoom.us/webinar/register/WN_Vz462PFTROC8-PUqKLTZ_w ))
