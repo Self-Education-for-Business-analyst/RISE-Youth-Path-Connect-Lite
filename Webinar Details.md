@@ -30,7 +30,7 @@ Dear learner :male-teacher: :female-teacher:
 ===============
 
 
-**Our Second Webinar** will be:  Saturday, `9 November`2022 at 8:00 PM Riyadh Time
+**Our Second Webinar** will be:  Saturday, `19 November`2022 at 8:00 PM Riyadh Time
 
 
 Our Host:   @Nancy Al Aswad - Tutor of BAND
