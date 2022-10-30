@@ -42,7 +42,7 @@ Analyze NYSE Data Due : `Dec 1, 2022`
 Webinar Topic: Walkthrough on the project: `uery a Digital Music Store Database`
 
 
-And here is the Webinar Registration link  
+And here is the Webinar Registration link  (( https://udacity.zoom.us/webinar/register/WN_Vz462PFTROC8-PUqKLTZ_w ))
 
 
 
