@@ -50,7 +50,7 @@ And here is the Webinar Registration link
 
 .
 
-| **😄 Next Webinar**|
+| **😄 [Next Webinar](https://docs.google.com/spreadsheets/d/1PGAaYA7v46sZX95yZN2ep-RaMQAriYrnTpF-rKHwPCo/edit#gid=1735644640)**|
  | ------------ | 
 
 | **The project: Due** | **Host** | **Webinar Topic** | **Webinar Date and Time** | **Account to Join** | **Recording URL** |
