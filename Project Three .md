@@ -16,7 +16,7 @@
 ================================
 
 
-- DB Browser for SQLite can be downloaded from the SQLite Browser website. Choose the correct version
+- DB Browser for SQLite can be downloaded from the [SQLite Browser website](https://sqlitebrowser.org/dl/) Choose the correct version
 
 
 
