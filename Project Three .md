@@ -21,3 +21,6 @@
 
 
 - [Download the Chinook database](https://video.udacity-data.com/topher/2021/March/6053d783_chinook-db/chinook-db.zip) we will be using for this project. It is also available at the bottom of the page.
+
+
+- [SQL Project Walkthrough](https://www.youtube.com/watch?v=sO1I4ddw4jI)
