@@ -24,3 +24,6 @@
 
 
 - [SQL Project Walkthrough](https://www.youtube.com/watch?v=sO1I4ddw4jI)
+
+
+- [How to save . txt  and submit the project](https://www.youtube.com/watch?v=q_uWT4YYbek)
