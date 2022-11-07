@@ -20,17 +20,27 @@
 ================================
 
 
+- [Download the Chinook database](https://video.udacity-data.com/topher/2021/March/6053d783_chinook-db/chinook-db.zip) we will be using for this project. It is also available at the bottom of the page.
+
+
+
+
 - DB Browser for SQLite can be downloaded from the [SQLite Browser website](https://sqlitebrowser.org/dl/) Choose the correct version or [Sqlite online](https://sqliteonline.com/)
 
-
-
-- [Download the Chinook database](https://video.udacity-data.com/topher/2021/March/6053d783_chinook-db/chinook-db.zip) we will be using for this project. It is also available at the bottom of the page.
 
 
 
 - [SQL Project Submission Template](SQL Project Submission Template)
 
-- [SQL Project Walkthrough](https://www.youtube.com/watch?v=sO1I4ddw4jI)
+
+
 
 
 - [How to save . txt  and submit the project](https://www.youtube.com/watch?v=q_uWT4YYbek)
+
+
+
+.
+
+
+> ## - [SQL Project Walkthrough](https://www.youtube.com/watch?v=sO1I4ddw4jI)
