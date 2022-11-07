@@ -175,3 +175,28 @@ You can use W3 and W4 to create a dashboard. W3 and W4 are not to be submitted a
 
 ![lesson 3 creating visualization in Tabealu](https://user-images.githubusercontent.com/36210723/198521463-5f7dd566-412f-4dbd-a861-a0d3b6146d23.png)
 
+
+
+
+> ====================================
+> 
+> ## Ideas 
+
+
+
+**According to the project requirements, your project must include:**
+
+==========================================================
+
+- worksheet related to insight 1
+
+- worksheet related to insight 2
+
+- worksheet related to insight 3
+
+
+And at least, one of the insights must be a dashboard or Story that include visualizations not previously used in other insights.
+
+
+.
+![insighs](https://user-images.githubusercontent.com/36210723/200293973-f77c60e7-9e06-4501-915b-1fbbdb7d163b.png)
