@@ -20,7 +20,7 @@
 ================================
 
 
-- [Download the Chinook database](https://video.udacity-data.com/topher/2021/March/6053d783_chinook-db/chinook-db.zip) we will be using for this project. It is also available at the bottom of the page.
+- [Download the Chinook database](https://video.udacity-data.com/topher/2021/March/6053d783_chinook-db/chinook-db.zip) we will be using for this project. It is also [available at the bottom of the page.](https://learn.udacity.com/nanodegrees/nd098-mcit/parts/cd0023/lessons/ls0527/concepts/f9b933c4-678b-47e2-b624-0531e18a21e6)
 
 
 
