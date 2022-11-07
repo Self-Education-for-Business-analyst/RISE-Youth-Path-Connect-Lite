@@ -30,7 +30,7 @@
 
 
 
-- [SQL Project Submission Template](SQL Project Submission Template)
+- [SQL Project Submission Template](https://video.udacity-data.com/topher/2018/May/5afd9585_sql-project-submission-template-1/sql-project-submission-template-1.pptx)
 
 
 
