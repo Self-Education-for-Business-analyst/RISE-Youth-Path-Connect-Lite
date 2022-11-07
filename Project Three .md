@@ -14,7 +14,7 @@
 .
 
 
-> ### [Download Database](https://learn.udacity.com/nanodegrees/nd098-mcit/parts/cd0023/lessons/ls0527/concepts/f9b933c4-678b-47e2-b624-0531e18a21e6) lwssons and ideas 
+> ### [Download Database](https://learn.udacity.com/nanodegrees/nd098-mcit/parts/cd0023/lessons/ls0527/concepts/f9b933c4-678b-47e2-b624-0531e18a21e6) lessons and ideas 
 
 
 ================================
