@@ -78,7 +78,7 @@
 - **A PDF** report has been uploaded and **a .txt** file with the queries has been uploaded in a single zipped folder file
 
 
--  **SQL queries :**
+-  `SQL queries :`
     
     -  Each SQL query needs to include one or more explicit join
 
