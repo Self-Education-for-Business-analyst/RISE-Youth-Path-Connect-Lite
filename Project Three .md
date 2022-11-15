@@ -87,7 +87,7 @@
 
 
 
-> **Sample**  [database ](https://github.com/Self-Education-for-Business-analyst/RISE-Youth-Path-Connect-Lite-profile-README.md/blob/main/pandp.db)  &&& [Practice `not` for project](https://github.com/Self-Education-for-Business-analyst/RISE-Youth-Path-Connect-Lite-profile-README.md/blob/main/Queries.txt) &&& []()
+> **Sample**  [database ](https://github.com/Self-Education-for-Business-analyst/RISE-Youth-Path-Connect-Lite-profile-README.md/blob/main/pandp.db)  &&& [Practice `not` for project](https://github.com/Self-Education-for-Business-analyst/RISE-Youth-Path-Connect-Lite-profile-README.md/blob/main/Queries.txt) &&& [Practice  slide `not` for project](https://github.com/Self-Education-for-Business-analyst/RISE-Youth-Path-Connect-Lite-profile-README.md/blob/main/SQL%20Practice%20Project.pdf)
 .
 
 
