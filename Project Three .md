@@ -75,10 +75,10 @@
 
 - All visualizations include a `title and axis labels, have a legend`  where applicable, and are easily understood.
 
-- `A PDF` report has been uploaded and `a .txt` file with the queries has been uploaded in a single zipped folder file as mention in this [vedio](https://www.youtube.com/watch?v=DPI-EEfydH0)
+- `A PDF` report has been uploaded and `a .txt` file with the queries has been uploaded in a single zipped folder file as mention in this [vedio link](https://www.youtube.com/watch?v=DPI-EEfydH0)
 
 
--  `SQL queries :`
+-  `[SQL queries](https://www.youtube.com/watch?v=DPI-EEfydH0) :`
     
     -  Each SQL query needs to include one or more explicit join
 
