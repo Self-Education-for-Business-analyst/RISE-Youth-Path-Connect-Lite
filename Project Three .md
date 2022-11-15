@@ -54,3 +54,22 @@
 
 
 > ## - [SQL Project Walkthrough](https://www.youtube.com/watch?v=sO1I4ddw4jI)
+
+
+
+
+.
+
+
+> ## PROJECT SPECIFICATION
+
+=================================
+
+- All SQL queries run without errors and produce the intended results.
+
+-  SQL queries : 
+    
+    -  Each SQL query needs to include one or more explicit join
+
+
+
