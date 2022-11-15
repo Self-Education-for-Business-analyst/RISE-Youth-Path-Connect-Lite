@@ -82,6 +82,9 @@
     -   Each SQL query needs to include one or more aggregation.
 
 
+
+
+> Sample  [database ](https://github.com/Self-Education-for-Business-analyst/RISE-Youth-Path-Connect-Lite-profile-README.md/blob/main/pandp.db)  &&& [Practice not for project](https://github.com/Self-Education-for-Business-analyst/RISE-Youth-Path-Connect-Lite-profile-README.md/blob/main/Queries.txt) &&& []()
 .
 
 
