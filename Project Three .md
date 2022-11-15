@@ -98,3 +98,24 @@
 
 
 .
+
+
+
+> ## Entity Relationship Diagrams
+
+
+=============================
+
+
+**An entity-relationship diagram (ERD)** is a common way to view data in a database. Below is the ERD for the database we will use from Parch & Posey. These diagrams help you visualize the data you are analyzing including:
+
+
+
+- The names of the tables.
+
+- The columns in each table.
+
+
+- The way the tables work together.
+
+.
