@@ -69,15 +69,16 @@
 
 =================================
 
-- All SQL queries run without errors and produce the intended results.
+- All SQL **queries run without errors**  and produce the intended results.
 
-- The student has used at least 4 unique SQL queries in their submission.
+- The student has used **at least 4 unique**  SQL queries in their submission.
 
-- All visualizations include a title and axis labels, have a legend where applicable, and are easily understood.
+- All visualizations include a **title and axis labels, have a legend**  where applicable, and are easily understood.
 
-- A PDF report has been uploaded and a .txt file with the queries has been uploaded in a single zipped folder file
+- **A PDF** report has been uploaded and **a .txt** file with the queries has been uploaded in a single zipped folder file
 
--  SQL queries : 
+
+-  **SQL queries :**
     
     -  Each SQL query needs to include one or more explicit join
 
