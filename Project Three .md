@@ -119,3 +119,9 @@
 - The way the tables work together.
 
 .
+
+
+> **SQL ** A language that allows us to access data stored in a database.
+
+
+.
