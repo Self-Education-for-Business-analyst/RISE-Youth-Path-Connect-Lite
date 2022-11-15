@@ -50,14 +50,11 @@
 
 
 
+
+
 5 ) . SQL Project Walkthrough  :  in [Arabic]()  and in [English ](https://www.youtube.com/watch?v=sO1I4ddw4jI) languages.
 
 
-
-.
-
-
-> ## - [SQL Project Walkthrough](https://www.youtube.com/watch?v=sO1I4ddw4jI)
 
 
 
@@ -78,7 +75,7 @@
 - `A PDF` report has been uploaded and `a .txt` file with the queries has been uploaded in a single zipped folder file as mentioned in [this video link](https://www.youtube.com/watch?v=DPI-EEfydH0)
 
 
--  `SQL queries:`   as mentioned in [this video link]
+-  `SQL queries:`   as mentioned in [this video link]()
     
     -  Each SQL query needs to include one or more explicit join
 
