@@ -82,4 +82,11 @@
     -   Each SQL query needs to include one or more aggregation.
 
 
+.
+
+
+![screen-shot-2017-10-19-at-5 33 45-pm](https://user-images.githubusercontent.com/36210723/202038229-8cb3444d-7613-47db-bcf0-3e518f32fb78.png)
+
+
+.
 
