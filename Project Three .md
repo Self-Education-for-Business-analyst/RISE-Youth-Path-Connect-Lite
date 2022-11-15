@@ -10,7 +10,7 @@
 - [ SQL for Data Analysis](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Certification%20as%20Oracle%20developer%20professional%20.md)
 
 
-- [SQL work ](https://docs.google.com/presentation/d/1R4wSPqg5bMT4PBB0rGpM836UvBh6pbDfiJZ7N2LtSKo/edit#slide=id.ge1e60c3288_0_12)
+- > [SQL work 19-11](https://docs.google.com/presentation/d/1R4wSPqg5bMT4PBB0rGpM836UvBh6pbDfiJZ7N2LtSKo/edit#slide=id.ge1e60c3288_0_12)
 
 .
 
