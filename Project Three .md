@@ -52,7 +52,7 @@
 
 
 
-5 ) . SQL Project Walkthrough  :  in [Arabic]()  and in [English ](https://www.youtube.com/watch?v=sO1I4ddw4jI) languages.
+5 ) . SQL Project Walkthrough  :  in [Arabic](https://www.youtube.com/watch?v=Wqe7ZmRI258)  and in [English ](https://www.youtube.com/watch?v=sO1I4ddw4jI) languages.
 
 
 
