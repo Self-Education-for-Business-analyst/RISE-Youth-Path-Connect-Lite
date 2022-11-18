@@ -52,7 +52,7 @@
 
 
 
-5 ) . SQL Project Walkthrough  :  **in Arabic** [ شرح نظري لافكار مشروع Sql](https://www.youtube.com/watch?v=67vuoeDbpw8) &&& [Practical work ]()  and in **[English ](https://www.youtube.com/watch?v=sO1I4ddw4jI)** languages.
+5 ) . SQL Project Walkthrough  :  **in Arabic** [ شرح نظري لافكار مشروع Sql](https://www.youtube.com/watch?v=67vuoeDbpw8) &&& [Practical شرح عملي work ]()  and in **[English ](https://www.youtube.com/watch?v=sO1I4ddw4jI)** languages.
 
 
 
