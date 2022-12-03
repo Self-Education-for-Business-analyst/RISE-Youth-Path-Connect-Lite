@@ -6,7 +6,13 @@
 
 - [work ](https://review.udacity.com/#!/reviews/3779459)
 
+
+> . [download Tableau Desktop](https://www.tableau.com/products/desktop/download)
+
 .
+
+
+
 
 
 ### However, the project needs `a few changes `  to let us able to review it. 
