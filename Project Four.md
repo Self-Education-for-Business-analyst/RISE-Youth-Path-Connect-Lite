@@ -213,7 +213,7 @@ And at least, one of the insights must be a dashboard or Story that include visu
 .
 
 
-> ## limit to the top 10
+> ## [limit to the top 10](https://review.udacity.com/#!/reviews/3862541)
 
 
 
