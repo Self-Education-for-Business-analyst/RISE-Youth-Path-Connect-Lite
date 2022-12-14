@@ -205,6 +205,7 @@ And at least, one of the insights must be a dashboard or Story that include visu
 
 
 .
+
 ![insighs](https://user-images.githubusercontent.com/36210723/200293973-f77c60e7-9e06-4501-915b-1fbbdb7d163b.png)
 
 
@@ -213,6 +214,7 @@ And at least, one of the insights must be a dashboard or Story that include visu
 
 
 > ## limit to the top 10
+
 
 
 ===================================
