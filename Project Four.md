@@ -206,3 +206,26 @@ And at least, one of the insights must be a dashboard or Story that include visu
 
 .
 ![insighs](https://user-images.githubusercontent.com/36210723/200293973-f77c60e7-9e06-4501-915b-1fbbdb7d163b.png)
+
+
+
+.
+
+
+> ## limit to the top 10
+
+
+===================================
+
+
+To do this, you need to place the observation in question under the filter table (if already there right-click on it to edit the filter) --> Click on top the Top tab(1) --> limit to the top 10 (2)
+
+.
+
+![top_10_bar_cahrts](https://user-images.githubusercontent.com/36210723/207631196-5b49f414-9b32-4753-b0e7-c983a746b0e7.png)
+
+
+.
+
+
+
