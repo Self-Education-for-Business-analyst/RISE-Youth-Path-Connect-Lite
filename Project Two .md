@@ -123,8 +123,10 @@
 
 
  * فكرة  السؤال:  [Spreadsheets 3: Analyze Data Exercise: VLOOKUP](https://learn.udacity.com/nanodegrees/nd098-mcit/parts/cd0022/lessons/ls0224/concepts/f6d8f067-2963-4ce0-9726-47f1fd4876ba)
+.
 
 
+![-5997092939286821214_121](https://user-images.githubusercontent.com/36210723/210999069-b46aa8fd-d9bf-4575-8782-bed29e7b935a.jpg)
 
 .
 
