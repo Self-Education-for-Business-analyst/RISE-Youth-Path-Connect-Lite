@@ -141,6 +141,12 @@
 ### Here are my explanation videos in [Arabic](https://www.youtube.com/watch?v=tRGn9zxZ8bQ&list=PLVvPFH7DSPJNib3tUsP8FzaHPzN-6cmAx&index=18) &&& [English]() for this task
 
 
+**And here is the format [link in our study ](https://learn.udacity.com/nanodegrees/nd098-mcit/parts/cd0022/lessons/ls0508/concepts/8e59229f-2b40-4c0b-bef1-48acae291659)**
+
+
+.
+
+
 
 .
 
