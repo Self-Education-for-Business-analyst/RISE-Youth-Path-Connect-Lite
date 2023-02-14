@@ -122,13 +122,16 @@ To help you finish your projects and join your fellow graduates :mortar_board: ,
 ## - Intro To Programming :
 
 - [Project 2 - Adventure Game ](https://udacity.zoom.us/rec/share/FhcmYQ7YzkKlSmpozkdeIktgONFZ7lSI2PxcaAR6L4z9y9YfPQRxZT0gPkB4qX2b.cQ1xOItFhmPBwcGG ) (Passcode : H9Dn?B^h )
-- Extra Support Webinar "Adventure Game" project ( Passcode : .2B8W^9# )
-Project 3 - Rock Paper Scissors ( Passcode : @9.qkb7X )
-Extra Support Webinar "Rock Paper Scissors " project ( Passcode : JU?zyw8q )
-Project 4 - Build a Shopping Cart ( Passcode : 4Xtse@@+ )
-Extra Support Webinar "Build a Shopping Cart " project ( Passcode : Cq7Z8=p9 )
+- [Extra Support Webinar "Adventure Game" project](https://udacity.zoom.us/rec/share/4KAk9p9zuOLrPCCagSEKN5d9pJOoE7OD6gM0QVi_pnhcKOYb_mOIf3hbQI_frrsi.BhVqsbPO_k__Hspy)  ( Passcode : .2B8W^9# )
+- Project 3 - Rock Paper Scissors ( Passcode : @9.qkb7X )
+- [Extra Support Webinar "Rock Paper Scissors " project](https://udacity.zoom.us/rec/share/PfjwBtzGHz4j9TVWpnnKQQCkNSonLsnq3HXzFc2R_56e7Cg5HMrmVuTKNLFOHfg5.4fWOCRpmugtoKBIQ) ( Passcode : JU?zyw8q )
+- [Project 4 - Build a Shopping Cart](https://udacity.zoom.us/rec/share/grZU96coEku9uMKLda_47UNRBmBISCXQSHtZVHwNgKkT49cRRupd1YnqKFp0mUt_.s8qVdHXj9-nBJbKg) ( Passcode : 4Xtse@@+ )
+- [Extra Support Webinar "Build a Shopping Cart " project](https://udacity.zoom.us/rec/share/pOLVmDp-zfw3oKO-akdrMB6zt63ZvtuyP1vMp4ElWW1cJHx-oiwF0TX0tBPOaf8.QkWNer560ohM-AMn) ( Passcode : Cq7Z8=p9 )
+
+.
 :star2:Please also find the following links for the career projects’ walkthrough:
-Resume: link
-GitHub: link
-LinkedIn: link
-Cover letter: link
+
+Resume: [link](https://drive.google.com/file/d/1xCQVn51TiV14gJ999iqT8pEqpfBRvuuZ/view?usp=sharing)
+GitHub: [link](https://drive.google.com/file/d/10CQqSSZPzu0dpelUjZuhgaoeAQe7Gs4c/view?usp=sharing)
+LinkedIn: [link](https://drive.google.com/file/d/1qKa2UbOs3p_QJfqRNZBodGpdn4vM-nZ8/view?usp=sharing)
+Cover letter: [link](https://drive.google.com/file/d/11Wu0tbPbvRuwrld6Ifbq80zZ_Ag_c5BG/view?usp=sharing)
