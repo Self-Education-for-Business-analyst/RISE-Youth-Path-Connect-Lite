@@ -105,3 +105,30 @@ https://sites.google.com/udacity.com/sda-youth-connect-lite-track/resources/week
 .
 
 [00](https://review.udacity.com/#!/submissions/3740228)
+
+
+# ## ًخقنثي webinars
+
+To help you finish your projects and join your fellow graduates :mortar_board: , here are the recordings of the webinars that will help you reach the finish line :checkered_flag:
+
+
+## - Business Analytics :
+
+- [Project 2- Analyze NYSE Data](https://udacity.zoom.us/rec/share/pkQzY1OMKkUjEzWgi8LHP7uFhDMyi02KibwzT83mqBKsNMVa3ZWaeKSBz6keJDhf._h7AyuwDap-taqKJ)
+- [Tips and tricks for Project 2](https://udacity.zoom.us/rec/share/S1XblqrKQqdZ0mbC8BxwGi7bq5SEo7Fevf6EJ5iLV-oyg9YkV9bsqSmVOShwonrp.Ouftg7wuCVlydPvt)
+- [Project 3 - Query a Digital Music Store Database](https://udacity.zoom.us/rec/share/jEsuqkxCIbS8zAMLaQ4ERoXHhvfeAYoo39ghB9oWg5-13Qg_x2WpoEzoKucFEZo.kiXOOHmK86S4HxZO)
+- [Project 4 - Build a Data Visualization Project](https://udacity.zoom.us/rec/share/O6KXH-yVZp_49f9CuzI6lvF2Z7pkmlLuNh6XRXcQ19_-bJXU1FxXvID2jO7OFQD_.3AUIY7_naXCp_Lso?startTime=1669914939000)
+
+## - Intro To Programming :
+
+- [Project 2 - Adventure Game ](https://udacity.zoom.us/rec/share/FhcmYQ7YzkKlSmpozkdeIktgONFZ7lSI2PxcaAR6L4z9y9YfPQRxZT0gPkB4qX2b.cQ1xOItFhmPBwcGG ) (Passcode : H9Dn?B^h )
+- Extra Support Webinar "Adventure Game" project ( Passcode : .2B8W^9# )
+Project 3 - Rock Paper Scissors ( Passcode : @9.qkb7X )
+Extra Support Webinar "Rock Paper Scissors " project ( Passcode : JU?zyw8q )
+Project 4 - Build a Shopping Cart ( Passcode : 4Xtse@@+ )
+Extra Support Webinar "Build a Shopping Cart " project ( Passcode : Cq7Z8=p9 )
+:star2:Please also find the following links for the career projects’ walkthrough:
+Resume: link
+GitHub: link
+LinkedIn: link
+Cover letter: link
