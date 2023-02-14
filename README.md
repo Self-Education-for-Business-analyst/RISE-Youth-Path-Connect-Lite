@@ -122,11 +122,22 @@ To help you finish your projects and join your fellow graduates :mortar_board: ,
 ## - Intro To Programming :
 
 - [Project 2 - Adventure Game ](https://udacity.zoom.us/rec/share/FhcmYQ7YzkKlSmpozkdeIktgONFZ7lSI2PxcaAR6L4z9y9YfPQRxZT0gPkB4qX2b.cQ1xOItFhmPBwcGG ) (Passcode : H9Dn?B^h )
+
 - [Extra Support Webinar "Adventure Game" project](https://udacity.zoom.us/rec/share/4KAk9p9zuOLrPCCagSEKN5d9pJOoE7OD6gM0QVi_pnhcKOYb_mOIf3hbQI_frrsi.BhVqsbPO_k__Hspy)  ( Passcode : .2B8W^9# )
-- Project 3 - Rock Paper Scissors ( Passcode : @9.qkb7X )
-- [Extra Support Webinar "Rock Paper Scissors " project](https://udacity.zoom.us/rec/share/PfjwBtzGHz4j9TVWpnnKQQCkNSonLsnq3HXzFc2R_56e7Cg5HMrmVuTKNLFOHfg5.4fWOCRpmugtoKBIQ) ( Passcode : JU?zyw8q )
+
+
+- [Project 3 - Rock Paper Scissors](https://udacity.zoom.us/rec/share/PfjwBtzGHz4j9TVWpnnKQQCkNSonLsnq3HXzFc2R_56e7Cg5HMrmVuTKNLFOHfg5.4fWOCRpmugtoKBIQ) ( Passcode : @9.qkb7X )
+
+
+- [Extra Support Webinar "Rock Paper Scissors " project](https://udacity.zoom.us/rec/share/SbUtgtWkwkmDJJS6gYZ5VMsMWDEljThA-6MayCFOL4UV9LOdStdoknDSpxREgVg-.aMBa_ea5_3OvVggn) ( Passcode : JU?zyw8q )
+
+
 - [Project 4 - Build a Shopping Cart](https://udacity.zoom.us/rec/share/grZU96coEku9uMKLda_47UNRBmBISCXQSHtZVHwNgKkT49cRRupd1YnqKFp0mUt_.s8qVdHXj9-nBJbKg) ( Passcode : 4Xtse@@+ )
+
+
 - [Extra Support Webinar "Build a Shopping Cart " project](https://udacity.zoom.us/rec/share/pOLVmDp-zfw3oKO-akdrMB6zt63ZvtuyP1vMp4ElWW1cJHx-oiwF0TX0tBPOaf8.QkWNer560ohM-AMn) ( Passcode : Cq7Z8=p9 )
+
+
 
 .
 :star2:Please also find the following links for the career projects’ walkthrough:
