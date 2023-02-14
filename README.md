@@ -142,7 +142,10 @@ To help you finish your projects and join your fellow graduates :mortar_board: ,
 .
 :star2:Please also find the following links for the career projects’ walkthrough:
 
-Resume: [link](https://drive.google.com/file/d/1xCQVn51TiV14gJ999iqT8pEqpfBRvuuZ/view?usp=sharing)
-GitHub: [link](https://drive.google.com/file/d/10CQqSSZPzu0dpelUjZuhgaoeAQe7Gs4c/view?usp=sharing)
-LinkedIn: [link](https://drive.google.com/file/d/1qKa2UbOs3p_QJfqRNZBodGpdn4vM-nZ8/view?usp=sharing)
-Cover letter: [link](https://drive.google.com/file/d/11Wu0tbPbvRuwrld6Ifbq80zZ_Ag_c5BG/view?usp=sharing)
+- Resume: [link](https://drive.google.com/file/d/1xCQVn51TiV14gJ999iqT8pEqpfBRvuuZ/view?usp=sharing)
+
+- GitHub: [link](https://drive.google.com/file/d/10CQqSSZPzu0dpelUjZuhgaoeAQe7Gs4c/view?usp=sharing)
+
+- LinkedIn: [link](https://drive.google.com/file/d/1qKa2UbOs3p_QJfqRNZBodGpdn4vM-nZ8/view?usp=sharing)
+
+- Cover letter: [link](https://drive.google.com/file/d/11Wu0tbPbvRuwrld6Ifbq80zZ_Ag_c5BG/view?usp=sharing)
